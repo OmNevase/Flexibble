@@ -47,6 +47,5 @@ const RelatedProjects = async ({ userId, projectId }: Props) => {
         </section>
     )
 }
-///hi just time pass
 
 export default RelatedProjects
